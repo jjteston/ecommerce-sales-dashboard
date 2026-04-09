@@ -1,5 +1,5 @@
 # 📊 E-Commerce Sales Dashboard 
-#### *Exploratory Data Analysis and Interactive Dashboard using Excel and Power BI*
+***Exploratory Data Analysis and Interactive Dashboard using Excel and Power BI***
 
 ## 📌 Project Overview
 This project analyzes an e-commerce sales dataset containing 34,500 transactions to explore sales performance, customer behavior, regional trends, and product returns using Excel and Power BI.
