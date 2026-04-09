@@ -2,7 +2,10 @@
 #### *Exploratory Data Analysis and Interactive Dashboard using Excel and Power BI*
 
 ## 📌 Project Overview
-This project analyzes an e-commerce sales transaction dataset to evaluate business performance and customer purchasing behavior. The objective of this project is to transform raw transaction data into insights that help understand sales performance and potential areas for business improvement by identifying sales trends, top-performing product categories, regional sales distribution, customer demographics, and product return patterns.
+This project analyzes an e-commerce sales dataset containing 34,500 transactions to explore sales performance, customer behavior, regional trends, and product returns using Excel and Power BI.
+
+## 🎯 Business Problem
+The goal of this analysis is to help an e-commerce business understand sales performance, customer behavior, and product trends to support data-driven decision-making.
 
 ## 🛠 Tools Used
 - Microsoft Excel – exploratory data analysis
@@ -85,6 +88,6 @@ In conclusion, the business demonstrates healthy revenue growth, strong repeat p
 ## 📬 Contact
 If you have feedback, questions, or opportunities, feel free to connect with me:
 - 🔗 LinkedIn: https://www.linkedin.com/in/jj-teston-b41950374/ 
-- 📧 Email: johnjestrteson@gmail.com
+- 📧 Email: johnjesterteston@gmail.com
 
 
