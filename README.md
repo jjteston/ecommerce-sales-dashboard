@@ -30,6 +30,14 @@ Records: 34,500
 - Customers aged 55+ contributed the highest spending, while younger groups spent less.  
 - The overall return rate was 6%, with Fashion having the highest returns.
 
+## 🧠 Project Approach
+This project followed a structured data analysis workflow:
+1. Data Cleaning and Preparation  
+2. Exploratory Data Analysis  
+3. KPI Development  
+4. Dashboard Creation  
+5. Insight Generation  
+
 <details>
 <summary>Click to view detailed analysis</summary>
 
@@ -67,3 +75,16 @@ The overall **product return rate stands at 6%**, with the **Fashion category ac
 In conclusion, the business demonstrates healthy revenue growth, strong repeat purchasing behavior, and a loyal customer base, with Electronics and the Southern region serving as the primary drivers of revenue. However, opportunities exist to address seasonal sales dips, strengthen performance in underperforming regions, and reduce returns in the Fashion category. Moving forward, the company may benefit from targeted seasonal promotions, region-specific marketing strategies, and improved product information or sizing guidance for fashion items to further optimize performance and profitability.
 
 </details>
+
+## 📌 Recommendations
+- Focus marketing efforts during high-performing months like November & December to maximize revenue  
+- Improve performance in low-performing regions such as Central through targeted campaigns  
+- Reduce return rates in the Fashion category by improving product descriptions or quality  
+- Target older customer segments (55+) with premium offerings  
+
+## 📬 Contact
+If you have feedback, questions, or opportunities, feel free to connect with me:
+- 🔗 LinkedIn: https://www.linkedin.com/in/jj-teston-b41950374/ 
+- 📧 Email: johnjestrteson@gmail.com
+
+
