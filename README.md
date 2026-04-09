@@ -15,7 +15,7 @@ This project analyzes an e-commerce sales transaction dataset to evaluate busine
 - Data Visualization  
 - Business Insight Generation
 
-## 📂 DATASET DESCRIPTION
+## 📂 Dataset Description
 Dataset: [↪E-commerce Sales Transactions Dataset](https://www.kaggle.com/datasets/miadul/e-commerce-sales-transactions-dataset)  
 Columns: 17  
 Records: 34,500
